@@ -1,0 +1,13 @@
+!SpriteGroup
+Id: b2efc3e3-58c7-4a7f-bad3-7f095a6c7087
+Tags: []
+Images:
+    -   Source: ../../../../../nol2_strip87 (1).png
+        Name: nol
+        TextureRegion:
+            X: 0
+            Y: 0
+            Width: 0
+            Height: 0
+        Center: {X: 0, Y: 0}
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

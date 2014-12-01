@@ -1,0 +1,5 @@
+C:\Projects\Paradox3D\Newt\Newt\Newt\Bin\Windows-Direct3D11\Debug\Newt.Game.dll
+C:\Projects\Paradox3D\Newt\Newt\Newt\Bin\Windows-Direct3D11\Debug\Newt.Game.pdb
+C:\Projects\Paradox3D\Newt\Newt\Newt\Newt.Game\obj\Windows\Debug\Newt.Game.csprojResolveAssemblyReference.cache
+C:\Projects\Paradox3D\Newt\Newt\Newt\Newt.Game\obj\Windows\Debug\Newt.Game.dll
+C:\Projects\Paradox3D\Newt\Newt\Newt\Newt.Game\obj\Windows\Debug\Newt.Game.pdb

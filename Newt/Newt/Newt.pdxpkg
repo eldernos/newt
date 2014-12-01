@@ -1,0 +1,46 @@
+!Package
+Id: 6ff0b750-3f76-4654-a8cb-9402de1c1881
+Tags: []
+Meta:
+    Name: Newt
+    Version: 1.0.0.0
+    Authors: []
+    Owners: []
+    RootNamespace: Newt
+    Dependencies:
+        -   Name: Paradox
+            Version: 1.0.0-beta06
+LocalDependencies: []
+Profiles:
+    -   Name: Shared
+        Platform: Shared
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Shared
+                RawImports: []
+            -   Path: Newt.Game/Effects
+                RawImports: []
+        OutputGroupDirectories: {}
+        Properties:
+            Paradox.DisplayOrientation: !DisplayOrientation LandscapeLeft
+        ProjectReferences:
+            -   Id: c178339d-e644-45af-8bc6-9745f8498884
+                Location: Newt.Game/Newt.Game.csproj
+                Type: Library
+    -   Name: Windows
+        Platform: Windows
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Windows
+                RawImports: []
+        OutputGroupDirectories: {}
+        Properties:
+            Paradox.GraphicsPlatform: !GraphicsPlatform Direct3D11
+            Paradox.GraphicsProfile: !GraphicsProfile Level_9_1
+        ProjectReferences:
+            -   Id: b99427e2-8af7-444f-9528-53de1380e5ce
+                Location: Newt.Windows/Newt.Windows.csproj
+                Type: Executable
+ExplicitFolders: []
+Bundles: []
+TemplateFolders: []

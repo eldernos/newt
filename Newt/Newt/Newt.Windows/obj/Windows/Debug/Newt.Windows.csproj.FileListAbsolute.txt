@@ -1,0 +1,15 @@
+C:\Projects\Paradox3D\Newt\Newt\Newt\Bin\Windows-Direct3D11\Debug\x64\freetype.dll
+C:\Projects\Paradox3D\Newt\Newt\Newt\Bin\Windows-Direct3D11\Debug\x86\freetype.dll
+C:\Projects\Paradox3D\Newt\Newt\Newt\Bin\Windows-Direct3D11\Debug\x64\libcore.dll
+C:\Projects\Paradox3D\Newt\Newt\Newt\Bin\Windows-Direct3D11\Debug\x86\libcore.dll
+C:\Projects\Paradox3D\Newt\Newt\Newt\Bin\Windows-Direct3D11\Debug\x64\libbulletc.dll
+C:\Projects\Paradox3D\Newt\Newt\Newt\Bin\Windows-Direct3D11\Debug\x86\libbulletc.dll
+C:\Projects\Paradox3D\Newt\Newt\Newt\Bin\Windows-Direct3D11\Debug\x64\d3dcompiler_47.dll
+C:\Projects\Paradox3D\Newt\Newt\Newt\Bin\Windows-Direct3D11\Debug\x86\d3dcompiler_47.dll
+C:\Projects\Paradox3D\Newt\Newt\Newt\Bin\Windows-Direct3D11\Debug\x64\glsl_optimizer.dll
+C:\Projects\Paradox3D\Newt\Newt\Newt\Bin\Windows-Direct3D11\Debug\x86\glsl_optimizer.dll
+C:\Projects\Paradox3D\Newt\Newt\Newt\Bin\Windows-Direct3D11\Debug\Newt.exe
+C:\Projects\Paradox3D\Newt\Newt\Newt\Bin\Windows-Direct3D11\Debug\Newt.pdb
+C:\Projects\Paradox3D\Newt\Newt\Newt\Newt.Windows\obj\Windows\Debug\Newt.Windows.csprojResolveAssemblyReference.cache
+C:\Projects\Paradox3D\Newt\Newt\Newt\Newt.Windows\obj\Windows\Debug\Newt.exe
+C:\Projects\Paradox3D\Newt\Newt\Newt\Newt.Windows\obj\Windows\Debug\Newt.pdb

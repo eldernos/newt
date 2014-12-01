@@ -1,0 +1,10 @@
+!EffectLibrary
+Id: e275c64e-3e23-43c5-8cae-079e260210ff
+BuildOrder: 1000
+Tags: []
+Permutations:
+    Keys:
+        Effect.Name: NewtEffectMain
+        MaterialAsset.UseParameters: true
+        Mesh.UseParameters: true
+    Children: []
